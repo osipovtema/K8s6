@@ -1,4 +1,3 @@
-# Автор: Федорчук Дмитрий Сергеевич DEVOPS-33
 
 # Домашнее задание к занятию «Конфигурация приложений»
 
@@ -46,11 +45,7 @@
 
 Текст индексной страницы, написанной мной в ConfigMap и текст индексной страницы из контейнера пода одинаковы, следовательно она взята именно из содержимого ConfigMap.
 
-5. Ссылка на манифест Deployment - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/deployment.yaml
-
-   Ссылка на манифест Service - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/service.yaml
-
-   Ссылка на манифест ConfigMap - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/configmap.yaml
+5. Ссылка на манифест https://github.com/osipovtema/K8s6/tree/main/SRC
 
    ------
 
@@ -86,12 +81,4 @@
 
 ![img_8](IMG/img_8.png)
 
-5. Ссылка на манифест Deployment - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/nginx_deployment.yaml
-
-   Ссылка на манифест ConfigMap - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/nginx_configmap.yaml
-
-   Ссылка на манифест Service - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/nginx_service.yaml
-
-   Ссылка на манифест Secret - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/nginx_secret.yaml
-
-   Ссылка на манифест Ingress - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/nginx_ingress.yaml
+5. Ссылка на манифест https://github.com/osipovtema/K8s6/tree/main/SRC
